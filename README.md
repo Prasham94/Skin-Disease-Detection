@@ -23,6 +23,7 @@ OpenCV (cv2)
 
 Getting Started
 1. Clone the Repository
-
+'''
 git clone https://github.com/your-username/skin-disease-classification.git
 cd skin-disease-classification
+'''
