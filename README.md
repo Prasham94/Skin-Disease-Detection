@@ -95,7 +95,7 @@ Batch Normalization: Normalize outputs to accelerate training and improve perfor
 Dropout Layers: Prevent overfitting by randomly dropping units during training.
 Flatten Layer: Converts the 2D feature maps into a 1D feature vector.
 Dense Layers: Fully connected layers that perform classification based on extracted features.
-Output Layer: Uses softmax activation to output probabilities for each of the 14 classes.
+Output Layer: Uses softmax activation to output probabilities for each of the 14 classes..
 Model Summary:
 ```
 _________________________________________________________________
