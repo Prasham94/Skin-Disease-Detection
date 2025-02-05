@@ -9,7 +9,7 @@ The dataset consists of images of skin diseases, each labeled with one of the 14
 model_training.ipynb: The main Jupyter Notebook containing the code for data loading, preprocessing, model architecture, training, and evaluation.
 README.md: Project documentation.
 images/: Directory containing sample images from the dataset (if applicable).
-data/: Directory containing the dataset and CSV files (update with your actual data paths)..
+data/: Directory containing the dataset and CSV files (update with your actual data paths).
 Prerequisites
 Python 3.x
 TensorFlow 2.x
